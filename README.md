@@ -5,7 +5,7 @@ Hello, welcome to my profile 🤭🤭🤭🫶
 - About me: I am an undergraduate student at the University of the State of Rio Grande do Norte - UERN, currently in the 5th period and I love animals
 
 - 🔭 I’m currently working on: 
-    🍨 my ice cream shop, [FLUTTER] project: <a href="https://github.com/Misians/Gelato-Aprendendo-Flutter-/" target="_blank"> > 🍨 < </a> [WEB] project: <a href="https://github.com/Misians/GelatoOnIce" target="_blank"> > 🍦 < </a>
+    🍨 my ice cream shop, [FLUTTER] project: <a href="https://github.com/Misians/Gelato-Aprendendo-Flutter-/" target="_blank"> <🍨> </a> [WEB] project: <a href="https://github.com/Misians/GelatoOnIce" target="_blank"> <🍦> </a>
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: I discovered that I love programming by styling my profile on a social network that I had only with CSS when I was 14
