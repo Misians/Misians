@@ -2,7 +2,7 @@
 
 Hello, welcome to my profile 🤭🤭🤭🫶
 
-- About me: I am an undergraduate student at the University of the State of Rio Grande do Norte - UERN, currently in the 6th period and I love animals
+- About me: I am an Graduation student at the University of the State of Rio Grande do Norte - UERN, currently in the 6th period and I love animals
 
 - 🔭 I’m currently working on: 
     🍨 my ice cream shop, [FLUTTER] project: <a href="https://github.com/Misians/Gelato-Aprendendo-Flutter-/" target="_blank"> <🍨> </a> [WEB] project: <a href="https://github.com/Misians/GelatoOnIce" target="_blank"> <🍦> </a>
