@@ -11,7 +11,6 @@ Hello, welcome to my profile 🤭🤭🤭🫶
 - ⚡ Fun fact: I discovered that I love programming by styling my profile on a social network that I had only with CSS when I was 14
 
   <a href="https://github.com/Misians">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Misians&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Misians&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
