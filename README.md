@@ -1,5 +1,6 @@
 ### 
 
+<img src="https://media.tenor.com/AfTTsS6hLHwAAAAi/mini-impact-miniimpact.gif"/>
 Hello, welcome to my profile 🤭🤭🤭🫶
 
 - About me: I am an Graduation student at the University of the State of Rio Grande do Norte - UERN, currently in the 6th period and I love animals
