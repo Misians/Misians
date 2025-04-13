@@ -85,36 +85,8 @@ currently working at SETHAS-RN – Web & Mobile Development Intern (10/2024 - Pr
 - Affective Computing & Human-Computer Interaction (HCI)
   - Researching <b>affective robotics</b> and <b>screen standardization </b> with the <b>Computational Intelligence Group (GIC)</b> .  
   - Passionate about designing systems that connect emotionally with users.  
-
-<h3>🌍 Fun Facts </h3>
-- I'm deeply involved in academic events like the <b>CSBC</b> (Brazilian Computer Society Congress).  
-- I love combining creativity and technology to solve real-world problems.  
-- Better known as <b>Misians</b>! 😄  
-
-
 <br>
 
-
-
-<h3 align="center">Eu sou Artemísia Kimberlly, mais conhecida como Misians!! </h3>
-<br>
-
-
-<h3>👩 💻 Sobre mim</h3> Oi! Eu sou a Misians, uma desenvolvedora e pesquisadora apaixonada em Computação e atualmente vivo em Natal - RN, Brasil.
-
-<h3> 🎓 Educação </h3>
-- Bacharel em Ciência da Computação (2020.1 - 2025.1) - Universidade do Estado do Rio Grande do Norte (UERN), Natal - RN
-<br>
-atualmente trabalhando na SETHAS-RN – Estagiária de Desenvolvimento Web e Mobile (10/2024 - Presente)  
-
-<h3> 🔬 Pesquisa</h3>
-- <b>Computação Afetiva e Interação Humano-Computador (HCI)</b>
-  - Pesquisando <b>robótica afetiva</b> e <b> padronização de tela</b> com o <b> Grupo de Inteligência Computacional (GIC)</b>.  
-  - Apaixonado por projetar sistemas que se conectam emocionalmente com os usuários.  
-
-<h3> 🌍 Curiosidades</h3>
-- Estou sempre envolvida em eventos acadêmicos como o <b>CSBC</b> (Congresso da Sociedade Brasileira de Computação).    
-- Tenho muitos apelidos, escolha o que preferir(Arte, Misia, Misi, Misians)! 😄  
 
 ## 📫 Let's Connect!
 <div>
