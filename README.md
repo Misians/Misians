@@ -6,7 +6,6 @@
 <center align="center" >
     <div align="center" >
         <img src="https://media1.tenor.com/m/EFaXnC3pyR0AAAAd/squirtle-pokemon.gif" height="180em" />
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Misians&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
   </div>
 </center>
 <br>
