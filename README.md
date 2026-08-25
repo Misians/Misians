@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Artemisia%20Kimberlly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Misians%20-%20Dev%20e%20Pesquisadora%20em%20Ciencia%20da%20Computacao&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Mestranda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(PPgCC);Pesquisadora+em+Rob%C3%B3tica+Social+e+M%C3%B3vel;Affective+Computing+%26+HCI" alt="Typing SVG" />
+
 
 </div>
 
